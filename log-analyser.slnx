@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="log-analyser.vcxproj" Id="f5c7c074-7833-47c0-b638-bbdb14599508" />
+</Solution>
